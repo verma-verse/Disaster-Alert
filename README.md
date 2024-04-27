@@ -1,19 +1,3 @@
-# <img src="./readme-img/icon.jpg" width="30"> Rebuild (nwHacks 2020): Disaster Recovery Application
-
-[![Licence](
-    https://img.shields.io/github/license/nwhacks-2020/rebuild)](
-        https://github.com/nwhacks-2020/rebuild/blob/master/LICENSE
-)
-
-To download the app from the Google Play Store, click here: https://play.google.com/store/apps/details?id=com.nwhacks2020.rebuild
-
-## Quick Setup Instructions
-
-1. Go to the [REBUILD](https://nwhacks-2020.github.io/rebuild/) website with an **Android** device.
-2. Click on **Download on Android device** to download the app to your phone.
-3. Open the download file.
-4. Click on **Install** to install the app on your phone.
-
 ### Codebase
 
 Clone the repository and navigate into the directory:
